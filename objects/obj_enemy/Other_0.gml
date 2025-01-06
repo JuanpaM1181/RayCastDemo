@@ -1,0 +1,1 @@
+if (sign(x) != sign(xstart)) instance_destroy();

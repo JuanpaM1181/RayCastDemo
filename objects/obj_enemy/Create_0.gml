@@ -1,0 +1,1 @@
+phy_speed_x = sign((room_width / 2) - x) * 3;
